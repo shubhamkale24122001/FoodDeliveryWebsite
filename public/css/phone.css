@@ -1,0 +1,32 @@
+#navbar{
+    flex-direction: column;
+}
+
+#navbar ul li a{
+    font-size: 1rem;
+    padding: 2px 7px;
+}
+
+#home{
+    height: 280px;
+    margin-top: 80px;
+    padding: 20px;
+}
+
+#home p{
+    font-size: 13px;
+}
+
+.services{
+    flex-direction: column;
+}
+
+.our-clients{
+    overflow: hidden;
+}
+.clients{
+    flex-wrap: wrap;
+}
+.h-primary{
+    font-size: 20px;
+}
